@@ -1,0 +1,41 @@
+body {
+    font-family: 'Lato';
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+img {
+    max-width: 850px;
+    width: 100%;
+}
+
+.btn {
+    background: #03A7D5;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    margin: 10px 0 20px;
+}
+
+.btn:hover {
+    background: #03A7D5 !important;
+    opacity: 0.9;
+}
+
+.splash-top {
+    background: #03A7D5;
+    color: white;
+    padding: 70px 10px;
+}
+
+.splash-bottom {
+    background: #34495E;
+    color: white;
+    padding: 60px 10px 0;
+}
